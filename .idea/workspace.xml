@@ -2,239 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5b90278-c5a2-4c20-8140-4b1c2ea47103" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/LandingPageController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/admin/fields/codevz_fields/icons/czicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/admin/fields/codevz_fields/icons/czicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/admin/fields/codevz_fields/icons/czicons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/admin/fields/codevz_fields/icons/czicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/admin/fields/codevz_fields/icons/czicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/admin/fields/codevz_fields/icons/czicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/css/codevzplus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/css/parallax.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/css/share.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/css/woocommerce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/js/codevzplus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/js/grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/js/parallax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/js/share.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/js/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/assets/js/woocommerce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/accordion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/content_box.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/countdown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/countdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/counter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/google_map.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/google_map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/login_register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/login_register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/particles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/process_road.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/progress_bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/progress_bar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/service_box.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/stylish_list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/subscribe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/tabs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/testimonials.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/video_popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/codevz-plus/wpbakery/video_popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/contact-form-7/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/contact-form-7/includes/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/contact-form-7/includes/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/contact-form-7/modules/recaptcha/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/css/js_composer.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v157a1.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v157a1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v157a1.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v157a1.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-iconsb82a.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-iconsb82a.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-iconsb82a.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-iconsb82a.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/flickr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/address-book.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/anchor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/application-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/asterisk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/balloon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/battery-full.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/binocular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/bookmark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/camcorder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/clock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/control.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/fire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/mail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/icons/video.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/toggle_close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/images/toggle_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/vc/alert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/vc/blur.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/vc/exclamation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/vc/info.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/vc/remove.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/js_composer/assets/vc/tick.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/assets/coloredbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/assets/gridtile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/assets/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/css/closedhand.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/css/openhand.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/css/rs6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons90c6.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons90c6.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons90c6.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons90c6.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/js/rbtools.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/revslider/public/assets/js/rs6.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/url-shortify/lite/dist/scripts/url-shortify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/url-shortify/lite/dist/styles/url-shortify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/css/select2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/css/woocommerce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/WooCommerced41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/star.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/star.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/star.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/fonts/stard41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/images/icons/loader.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/themes/xtra/assets/css/comments.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/themes/xtra/assets/css/core.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/themes/xtra/assets/css/loading.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/themes/xtra/assets/css/single.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/themes/xtra/assets/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/themes/xtra/assets/js/loading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package1-1-600x600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package1-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package2-1-600x600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package2-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package3-1-600x600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package3-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package4-1-600x600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package4-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package5-1-600x600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package5-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package6-1-600x600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package6-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package7-1-600x600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package7-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package8-1-600x600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/06/package8-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/12/logo1_fff-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/12/logo2_fff-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/12/logo3_fff-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/12/logo7_fff-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/12/logo8_fff-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2017/12/logof_fff-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/background-row9cc7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/logo-footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/logo-seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/slider-logo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/slider-logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/slider-logo-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/slider-logo-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/slider-logo-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/slider1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2019/12/subscribe-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-content/uploads/sites/106/2020/01/map-pin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-includes/css/dist/block-library/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-includes/css/dist/block-library/theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-includes/js/comment-reply.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-includes/js/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-includes/js/wp-embed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wp-includes/wlwmanifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/www.google.com/recaptcha/api5f36.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/landing/page/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing/page/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing/page/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -409,6 +178,7 @@
       <workItem from="1608283833611" duration="97000" />
       <workItem from="1609150499504" duration="2962000" />
       <workItem from="1609251011083" duration="1388000" />
+      <workItem from="1609419429576" duration="4661000" />
     </task>
     <servers />
   </component>
@@ -424,9 +194,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="564" y="250" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1609150980526" />
-    <state x="482" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1608283829002">
+    <state x="482" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1609610962352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="482" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1608283829002" />
+    <state x="482" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1609610962352" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1609618600034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609618600034" />
   </component>
 </project>

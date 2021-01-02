@@ -136,7 +136,7 @@
             color: #fff !important;
             z-index: 999999;
             background: #232323;
-            padding: 10px 0;
+            padding: 10px 100px;
             font-family: inherit;
             font-size: medium;
             line-height: 2;
@@ -183,7 +183,7 @@
             background-color: #7aa93c;
             box-shadow: 0 2px 0 #6f9a37;
             border: none;
-            border-radius: 3px;
+            border-radius: 15px;
             font-weight: 400;
             font-size: 15px;
             color: #111 !important;
@@ -573,7 +573,9 @@
 
 <body id="intro" class="home page-template-default page page-id-5 wp-embed-responsive theme-xtra cz-cpt-post  cz_sticky xtra-3.9.11 codevz-plus-3.9.11 clr cz-page-5 woocommerce-no-js wpb-js-composer js-comp-ver-6.4.2 vc_responsive"  data-ajax="https://xtratheme.com/seo-2/wp-admin/admin-ajax.php">
 
-<div class="pageloader "><div>  <svg xmlns="http://www.w3.org/2000/svg" width="100px" height="100px" viewBox="0 0 100 100" style="transform:scale(2)">
+<div class="pageloader ">
+    <div>
+        <svg xmlns="http://www.w3.org/2000/svg" width="100px" height="100px" viewBox="0 0 100 100" style="transform:scale(2)">
             <circle cx="30" cy="50" fill="#fff">
                 <animate attributeName="r" values="0;5;0" dur="1.2s" repeatCount="indefinite"/>
             </circle>
@@ -583,7 +585,37 @@
             <circle cx="70" cy="50" fill="#fff">
                 <animate attributeName="r" values="0;5;0" dur="1.2s" begin="0.8s" repeatCount="indefinite"/>
             </circle>
-        </svg></div></div><div id="layout" class="clr layout_"><div class="inner_layout header_onthe_cover header_onthe_cover_all"><div class="cz_overlay"></div><header class="page_header clr"><div class="header_2 cz_menu_fx_left_to_right"><div class="row elms_row"><div class="clr"><div class="elms_left header_2_left"><div class="cz_elm logo_header_2_left_0 inner_logo_header_2_left_0" style="margin-top:36px;margin-bottom:34px;"><div class="logo_is_img logo"><a href="index.html" title="Search Engine Optimizations &amp; Digital Marketing Theme"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;175&#39;%20height=&#39;40&#39;%20viewBox%3D&#39;0%200%20175%2040&#39;%2F%3E" data-czlz data-src="https://xtratheme.com/seo-2/wp-content/uploads/sites/106/2019/12/logo-seo.png" alt="SEO" width="175" height="40" style="width: 175px"></a></div></div><div class="cz_elm line_header_2_left_1 inner_line_header_2_left_1" style="margin-right:-10px;margin-left:-10px;"><div class="header_line_3" style="background-color:transparent;">&nbsp;</div></div><div class="cz_elm icon_header_2_left_2 inner_icon_header_2_left_2" style="margin-top:40px;margin-right:10px;margin-bottom:32px;margin-left:10px;"><div class="elm_icon_text"><span class="it_text " style="color:#6d6d6d;">Make a call:</span></div></div><div class="cz_elm icon_header_2_left_3 inner_icon_header_2_left_3" style="margin-top:40px;margin-bottom:32px;"><a class="elm_icon_text" href="tel:0018001234567" data-cz-style=".icon_header_2_left_3 .elm_icon_text:hover .it_text {color:#282828 !important;}"><span class="it_text " style="color:#008aff;font-weight:500;">+1 (800) 123 4567</span></a></div></div><div class="elms_right header_2_right"><div class="cz_elm menu_header_2_right_4 inner_menu_header_2_right_0" style="margin-top:30px;margin-bottom:30px;"><i class="fa czico-061-menu-4 icon_fullscreen_menu cz_mi_23010" style="font-size:25px;color:#ffffff;padding:2px;border-style:solid;border-width:2px;border-color:#ffffff;border-radius:90px;" data-cz-style=".cz_mi_23010:hover{color:#008aff !important;background-color:#ffffff !important;}"><span></span></i><i class="fa czico-061-menu-4 hide icon_mobile_fullscreen_menu cz_mi_23010" style="font-size:25px;color:#ffffff;padding:2px;border-style:solid;border-width:2px;border-color:#ffffff;border-radius:90px;" data-cz-style=".cz_mi_23010:hover{color:#008aff !important;background-color:#ffffff !important;}"><span></span></i><ul id="menu_header_2" class="sf-menu clr fullscreen_menu" data-indicator="fa fa-angle-down" data-indicator2="fa fa-angle-down"><li id="menu-header_2-599" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home cz current_menu current_menu" data-sub-menu=""><a href="index.html" data-title="Home."><span>Home.</span></a></li>
+        </svg>
+    </div>
+</div>
+
+<div id="layout" class="clr layout_">
+    <div class="inner_layout header_onthe_cover header_onthe_cover_all">
+        <div class="cz_overlay">
+
+        </div>
+
+        <header class="page_header clr">
+            <div class="header_2 cz_menu_fx_left_to_right">
+                <div class="row elms_row"><div class="clr">
+                        <div class="elms_left header_2_left"><div class="cz_elm logo_header_2_left_0 inner_logo_header_2_left_0" style="margin-top:36px;margin-bottom:34px;">
+                                <div class="logo_is_img logo">
+                                    <a href="index.html" title="Search Engine Optimizations &amp; Digital Marketing Theme">
+                                        <img src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;175&#39;%20height=&#39;40&#39;%20viewBox%3D&#39;0%200%20175%2040&#39;%2F%3E" data-czlz data-src="https://xtratheme.com/seo-2/wp-content/uploads/sites/106/2019/12/logo-seo.png" alt="SEO" width="175" height="40" style="width: 175px">
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="cz_elm line_header_2_left_1 inner_line_header_2_left_1" style="margin-right:-10px;margin-left:-10px;">
+                                <div class="header_line_3" style="background-color:transparent;">&nbsp;
+                                </div></div><div class="cz_elm icon_header_2_left_2 inner_icon_header_2_left_2" style="margin-top:40px;margin-right:10px;margin-bottom:32px;margin-left:10px;">
+                                <div class="elm_icon_text">
+                                    <span class="it_text " style="color:#6d6d6d;">Make a call:</span>
+                                </div>
+                            </div>
+
+                            <div class="cz_elm icon_header_2_left_3 inner_icon_header_2_left_3" style="margin-top:40px;margin-bottom:32px;">
+                                <a class="elm_icon_text" href="tel:0018001234567" data-cz-style=".icon_header_2_left_3 .elm_icon_text:hover .it_text {color:#282828 !important;}"><span class="it_text " style="color:#008aff;font-weight:500;">+1 (800) 123 4567</span></a></div></div><div class="elms_right header_2_right"><div class="cz_elm menu_header_2_right_4 inner_menu_header_2_right_0" style="margin-top:30px;margin-bottom:30px;"><i class="fa czico-061-menu-4 icon_fullscreen_menu cz_mi_23010" style="font-size:25px;color:#ffffff;padding:2px;border-style:solid;border-width:2px;border-color:#ffffff;border-radius:90px;" data-cz-style=".cz_mi_23010:hover{color:#008aff !important;background-color:#ffffff !important;}"><span></span></i><i class="fa czico-061-menu-4 hide icon_mobile_fullscreen_menu cz_mi_23010" style="font-size:25px;color:#ffffff;padding:2px;border-style:solid;border-width:2px;border-color:#ffffff;border-radius:90px;" data-cz-style=".cz_mi_23010:hover{color:#008aff !important;background-color:#ffffff !important;}"><span></span></i><ul id="menu_header_2" class="sf-menu clr fullscreen_menu" data-indicator="fa fa-angle-down" data-indicator2="fa fa-angle-down"><li id="menu-header_2-599" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home cz current_menu current_menu" data-sub-menu=""><a href="index.html" data-title="Home."><span>Home.</span></a></li>
                                     <li id="menu-header_2-600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children cz" data-sub-menu=""><a href="about/index.html" data-title="About."><span>About.</span><i class="cz_indicator fa"></i></a>
                                         <ul class="sub-menu">
                                             <li id="menu-header_2-594" class="menu-item menu-item-type-custom menu-item-object-custom cz" data-sub-menu=""><a href="#" data-title="Submenu 1"><span>Submenu 1</span></a></li>
@@ -1040,17 +1072,11 @@
                 <path style="fill: #fff;" d="M2.419,0.917L29.69,41.246,0.546,83.1H25.593l17.088-25.44L60.121,83.1H85.753L56.375,40.191,83.412,0.917H58.131l-15.45,23.33L27.349,0.917H2.419Zm96.55,0v17.7h24.345V83.1h21.418V18.619h24.579V0.917H98.969ZM263.172,83.1L246.083,56.252c9.481-4.924,14.631-14.068,14.631-26.5,0-18.289-12.407-28.84-34.177-28.84H189.669V83.1h21.419V60.355h15.918L238.944,83.1h24.228ZM211.088,18.033h15.566c8.662,0,13.694,4.338,13.694,12.427,0,8.324-5.032,12.779-13.694,12.779H211.088V18.033ZM346.38,83.1H369.2L334.793,0.917h-22L277.559,83.1h22L305.3,68.562h35.464Zm-34.645-30.95L323.206,22.84l11.236,29.309H311.735Zm82.857,11.606c-5.853,0-9.949,4.1-9.949,10.082s4.1,10.2,9.949,10.2,10.065-4.221,10.065-10.2A9.655,9.655,0,0,0,394.592,63.755Z"/>
             </svg>
         </a>
-        <div class="codevz-db-demos">
-            <span>Explore Demos ...<i class="fa fa-angle-down"></i></span>
-            <div class="codevz-db-demos-grid"><div class="cz_dloader"></div></div>
-        </div>
 
-        <div class="xtra-off">
-            <ul id='cz6219' data-countdown='{"type":"loop","date":9000,"elapse":false,"y":"","d":"","h":"Hour","m":"Minute","s":"Second","p":"s","ex":"This event has been expired"}' class="cz6219 cz_countdown clr tac"><li><span>00</span><p>Hour</p></li><li><span>00</span><p>Minute</p></li><li><span>00</span><p>Second</p></li></ul><div data-cz-style='#cz6219 li{padding:0px 10px;margin:0px}#cz6219 span{font-size:22px;color:#ffae00;padding-bottom:0px;margin-bottom:0px}#cz6219 p{font-size:12px;padding-top:0px;margin-top:-15px}'></div>			<p><strong>Special offer on personal pack</strong> - 10% off <span>SAVE10</span></p>
-        </div>
+        <a class="codevz-db-button" href="/publish/project" target="_blank">Publique um projecto</a>
+        <a href="/login"><span style="color: #ffffff; float: right; padding-right: 20px; padding-left: 20px" >Entrar</span></a>
+        <a href="/sign-up"><span style="color: #ffffff; float: right" >Cadastrar-se</span></a>
 
-        <i class="fa fa-angle-up codevz-remove-db"></i>
-        <a class="codevz-db-button" href="/login" target="_blank">Publique um projecto</a>
     </div>
     <i class="fa fa-angle-down codevz-show-db"></i>
 
